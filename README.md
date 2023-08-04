@@ -1,2 +1,4 @@
 # basic static website
-#welcome. this is my first upload . thank you
+welcome.This is my first upload
+Please compile both html and css simultaneously
+Thankyou 
